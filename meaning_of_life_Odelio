@@ -1,8 +1,8 @@
 public class HelloWorld {
 
     public static void main(String[] args){
-        System.out.println("What's the ultimate answer for Life, the Universe, and Everything?");   
-        System.out.println("42");
+        System.out.println("What's the ultimate answer for Life, Universe, and Everything?");   
+        System.out.println("The answer is: 42.");
     }
 
 }
